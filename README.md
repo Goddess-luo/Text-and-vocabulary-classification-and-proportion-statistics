@@ -1,1 +1,6 @@
-# Text-and-vocabulary-classification-and-proportion-statistics
+合作完成项目。
+项目步骤:
+①加载项目数据集train.json，然后将其分类成训练集和验证集。
+③将所有的字符串转为小写，并计算单词的长度并将其添加到数据集中。
+④使用TorchtextGloVe 6B进行矢量化。
+⑤将长度相似的单词放在一起进行处理。
